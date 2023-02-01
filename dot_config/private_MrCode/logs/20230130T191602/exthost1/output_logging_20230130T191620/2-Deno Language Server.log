@@ -1,0 +1,13 @@
+Starting Deno language server...
+  version: 1.30.0 (release, x86_64-unknown-linux-gnu)
+  executable: /usr/local/bin/deno
+Connected to "MrCode" 1.67.2+22140
+  Auto-resolved configuration file: "file:///home/henrique/deno.json"
+Setting import map from configuration file: "./import_map.json"
+  Resolved import map: "file:///home/henrique/import_map.json"
+Enabling import suggestions for: https://x.nest.land
+Download https://x.nest.land/.well-known/deno-import-intellisense.json
+Download https://intellisense.nest.land/deno-import-intellisense.json
+Enabling import suggestions for: https://crux.land
+Enabling import suggestions for: https://deno.land
+Server ready.

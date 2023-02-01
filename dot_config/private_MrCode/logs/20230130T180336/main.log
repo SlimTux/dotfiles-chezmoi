@@ -1,0 +1,9 @@
+[2023-01-30 18:03:40.103] [main] [info] window#load: attempt to load window (id: 1)
+[2023-01-30 18:03:40.315] [main] [info] update#setState idle
+[2023-01-30 18:03:40.957] [main] [info] ExtensionHostStarterWorker created
+[2023-01-30 18:03:46.856] [main] [info] window#load: window reported ready (id: 1)
+[2023-01-30 18:03:47.034] [main] [info] Starting extension host with pid 10757 (fork() took 12 ms).
+[2023-01-30 18:03:47.035] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
+[2023-01-30 18:04:04.730] [main] [info] Enabling inspect port on extension host with pid 10757.
+[2023-01-30 18:04:10.315] [main] [info] update#setState checking for updates
+[2023-01-30 18:04:10.558] [main] [info] update#setState idle

@@ -1,0 +1,29 @@
+[2023-01-27 16:51:26.854] [exthost] [info] Extension host with pid 1579 started
+[2023-01-27 16:51:26.854] [exthost] [info] Skipping acquiring lock for /home/henrique/.config/MrCode/User/workspaceStorage/769941b3291c4d5fa08a4c7e49421539.
+[2023-01-27 16:51:26.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-27 16:51:26.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2023-01-27 16:51:26.901] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-27 16:51:26.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2023-01-27 16:51:27.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-27 16:51:27.872] [exthost] [info] Eager extensions activated
+[2023-01-27 16:51:27.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:51:27.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:51:27.894] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2023-01-27 16:51:27.907] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2023-01-27 16:51:27.921] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:51:27.931] [exthost] [info] ExtensionService#_doActivateExtension shailen.netlify, startup: false, activationEvent: '*'
+[2023-01-27 16:51:37.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+[2023-01-27 16:51:37.686] [exthost] [info] ExtensionService#_doActivateExtension Wscats.eno, startup: false, activationEvent: 'onLanguage:scss'
+[2023-01-27 16:52:14.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:52:14.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:52:14.781] [exthost] [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:52:14.803] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:52:15.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'api', root cause: denoland.vscode-deno
+[2023-01-27 16:52:15.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-01-27 16:52:15.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2023-01-27 16:52:15.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2023-01-27 16:52:42.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2023-01-27 16:52:51.080] [exthost] [info] ExtensionService#_doActivateExtension unifiedjs.vscode-mdx, startup: false, activationEvent: 'onLanguage:javascript'
+[2023-01-27 16:53:07.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2023-01-27 16:53:30.776] [exthost] [info] Extension host terminating: renderer closed the socket
+[2023-01-27 16:53:30.809] [exthost] [info] Extension host with pid 1579 exiting with code 0

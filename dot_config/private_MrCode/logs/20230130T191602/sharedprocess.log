@@ -1,0 +1,2 @@
+[2023-01-30 19:16:20.780] [sharedprocess] [info] Starting worker process with pid 23917 (type: fileWatcher, window: 1).
+[2023-01-30 19:16:24.164] [sharedprocess] [info] Deleted from disk denoland.vscode-deno /home/henrique/.mrcode/extensions/denoland.vscode-deno-3.16.0

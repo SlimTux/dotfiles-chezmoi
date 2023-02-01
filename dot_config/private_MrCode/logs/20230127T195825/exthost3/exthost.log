@@ -1,0 +1,36 @@
+[2023-01-27 20:20:32.608] [exthost] [info] Extension host with pid 9438 started
+[2023-01-27 20:20:32.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-27 20:20:32.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-01-27 20:20:32.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-27 20:20:32.668] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2023-01-27 20:20:32.686] [exthost] [info] ExtensionService#_doActivateExtension shailen.netlify, startup: true, activationEvent: '*'
+[2023-01-27 20:20:32.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-01-27 20:20:32.781] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-27 20:20:32.802] [exthost] [info] Eager extensions activated
+[2023-01-27 20:20:32.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 20:20:32.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 20:20:32.817] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 20:20:59.654] [exthost] [info] Extension host terminating: renderer closed the socket
+[2023-01-27 20:20:59.658] [exthost] [info] Extension host with pid 9438 exiting with code 0
+[2023-01-27 20:21:01.832] [exthost] [info] Extension host with pid 9900 started
+[2023-01-27 20:21:01.832] [exthost] [info] Skipping acquiring lock for /home/henrique/.config/MrCode/User/workspaceStorage/225920af27b592285a79c2138d78a30e.
+[2023-01-27 20:21:01.898] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-27 20:21:01.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2023-01-27 20:21:01.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-27 20:21:01.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-27 20:21:01.921] [exthost] [info] Eager extensions activated
+[2023-01-27 20:21:01.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 20:21:01.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 20:21:02.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2023-01-27 20:21:02.755] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2023-01-27 20:21:02.773] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 20:21:02.787] [exthost] [info] ExtensionService#_doActivateExtension shailen.netlify, startup: false, activationEvent: '*'
+[2023-01-27 20:21:05.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 20:21:05.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 20:21:05.752] [exthost] [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 20:21:05.779] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 20:21:06.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'api', root cause: denoland.vscode-deno
+[2023-01-27 20:21:06.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-01-27 20:21:17.043] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+[2023-01-27 20:21:19.199] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+[2023-01-27 20:32:23.550] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001

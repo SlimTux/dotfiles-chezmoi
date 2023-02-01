@@ -1,0 +1,4 @@
+[2023-01-27 17:02:51.324] [exthost] [info] Extension host with pid 11374 started
+[2023-01-27 17:02:51.324] [exthost] [info] Skipping acquiring lock for /home/henrique/.config/MrCode/User/workspaceStorage/b29e04002b696787acc7617055bacb4d.
+[2023-01-27 17:02:51.326] [exthost] [info] Extension host terminating: renderer closed the socket
+[2023-01-27 17:02:51.327] [exthost] [info] Extension host with pid 11374 exiting with code 0

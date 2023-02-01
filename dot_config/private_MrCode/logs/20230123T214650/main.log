@@ -1,0 +1,12 @@
+[2023-01-23 21:46:53.415] [main] [info] window#load: attempt to load window (id: 1)
+[2023-01-23 21:46:53.631] [main] [info] update#setState idle
+[2023-01-23 21:46:55.879] [main] [info] ExtensionHostStarterWorker created
+[2023-01-23 21:47:05.584] [main] [info] window#load: window reported ready (id: 1)
+[2023-01-23 21:47:05.851] [main] [info] Starting extension host with pid 3284 (fork() took 53 ms).
+[2023-01-23 21:47:05.851] [main] [info] ExtensionHostStarterWorker.start() took 54 ms.
+[2023-01-23 21:47:17.810] [main] [info] Enabling inspect port on extension host with pid 3284.
+[2023-01-23 21:47:23.632] [main] [info] update#setState checking for updates
+[2023-01-23 21:47:23.990] [main] [info] update#setState idle
+[2023-01-23 22:07:36.325] [main] [info] Waiting for extension host with pid 3284 to exit.
+[2023-01-23 22:07:36.374] [main] [info] Extension host with pid 3284 exited with code: 0, signal: null.
+[2023-01-23 22:07:36.667] [main] [warning] [storage main] detected slow close() operation: Time: 345ms, DB size: 45056b, Large Keys: memento/workbench.editors.files.textFileEditor:6242, history.entries:2551, memento/workbench.parts.editor:2247, workbench.view.extensions.state:1779, __$__targetStorageMarker:1707

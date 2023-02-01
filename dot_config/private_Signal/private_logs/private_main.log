@@ -1,0 +1,291 @@
+{"level":30,"time":"2023-01-31T19:58:45.417Z","msg":"app ready"}
+{"level":30,"time":"2023-01-31T19:58:45.419Z","msg":"starting version 6.3.0"}
+{"level":30,"time":"2023-01-31T19:58:45.419Z","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2023-01-31T19:58:45.420Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-01-31T19:58:45.558Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-01-31T19:58:45.559Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2023-01-31T19:58:45.559Z","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":30,"time":"2023-01-31T19:58:45.559Z","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":1914,\"height\":1053,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"titleBarOverlay\":false,\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"backgroundThrottling\":true,\"enablePreferredSizeMode\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":3,\"y\":24}"}
+{"level":30,"time":"2023-01-31T19:58:47.220Z","msg":"spellcheck: user locale: de"}
+{"level":30,"time":"2023-01-31T19:58:47.221Z","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2023-01-31T19:58:47.221Z","msg":"spellcheck: setting languages to:  [\"de\"]"}
+{"level":30,"time":"2023-01-31T19:58:47.222Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-01-31T19:58:47.771Z","msg":"MainSQL: updateSchema:\n  Current user_version: 74;\n  Most recent db schema: 74;\n  SQLite version: 3.39.2;\n  SQLCipher version: 4.5.2 community;\n  (deprecated) schema_version: 325;\n"}
+{"level":30,"time":"2023-01-31T19:58:56.354Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2023-01-31T19:58:56.356Z","msg":"main window is ready-to-show"}
+{"level":30,"time":"2023-01-31T19:58:56.356Z","msg":"showing main window"}
+{"level":30,"time":"2023-01-31T19:58:56.366Z","msg":"System tray service: created"}
+{"level":30,"time":"2023-01-31T19:58:56.366Z","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2023-01-31T19:58:56.366Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-01-31T19:58:56.367Z","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2023-01-31T19:58:56.440Z","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2023-01-31T19:58:56.441Z","msg":"Finish ensuring permissions in 74ms"}
+{"level":30,"time":"2023-01-31T19:58:56.567Z","msg":"MainSQL: slow query getAllItems duration=76ms"}
+{"level":30,"time":"2023-01-31T19:58:56.943Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":30,\"y\":31}"}
+{"level":30,"time":"2023-01-31T19:58:56.944Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:58:56.945Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:58:57.023Z","msg":"MainSQL: slow query createOrUpdateItem duration=113ms"}
+{"level":30,"time":"2023-01-31T19:58:57.135Z","msg":"MainSQL: slow query createOrUpdateItem duration=112ms"}
+{"level":30,"time":"2023-01-31T19:58:57.179Z","msg":"MainSQL: slow query createOrUpdateItem duration=43ms"}
+{"level":30,"time":"2023-01-31T19:58:57.245Z","msg":"MainSQL: slow query createOrUpdateItem duration=41ms"}
+{"level":30,"time":"2023-01-31T19:58:57.324Z","msg":"MainSQL: slow query createOrUpdateItem duration=77ms"}
+{"level":30,"time":"2023-01-31T19:58:57.325Z","msg":"sending `database-ready`"}
+{"level":30,"time":"2023-01-31T19:58:57.631Z","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2023-01-31T19:58:57.631Z","msg":"Background throttling enabled because no call is active"}
+{"level":30,"time":"2023-01-31T19:58:58.167Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":-3717,\"y\":34}"}
+{"level":30,"time":"2023-01-31T19:58:58.167Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:58:58.168Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:58:59.042Z","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2023-01-31T19:58:59.130Z","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2023-01-31T19:58:59.131Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-01-31T19:58:59.233Z","msg":"App loaded - time: 13822"}
+{"level":30,"time":"2023-01-31T19:58:59.234Z","msg":"SQL init - time: 2361"}
+{"level":30,"time":"2023-01-31T19:58:59.234Z","msg":"Preload - time: 2605"}
+{"level":30,"time":"2023-01-31T19:58:59.234Z","msg":"WebSocket connect - time: 2152"}
+{"level":30,"time":"2023-01-31T19:58:59.234Z","msg":"Processed count: 9"}
+{"level":30,"time":"2023-01-31T19:58:59.234Z","msg":"Messages per second: 0.9928295642581357"}
+{"level":30,"time":"2023-01-31T19:58:59.362Z","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2023-01-31T19:58:59.363Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-01-31T19:58:59.463Z","msg":"MainSQL: slow query createOrUpdateItem duration=101ms"}
+{"level":30,"time":"2023-01-31T19:58:59.508Z","msg":"MainSQL: slow query createOrUpdateItem duration=44ms"}
+{"level":30,"time":"2023-01-31T19:58:59.730Z","msg":"MainSQL: slow query createOrUpdateItem duration=46ms"}
+{"level":30,"time":"2023-01-31T19:58:59.775Z","msg":"MainSQL: slow query createOrUpdateSignedPreKey duration=45ms"}
+{"level":30,"time":"2023-01-31T19:58:59.930Z","msg":"MainSQL: slow query updateConversations duration=66ms"}
+{"level":30,"time":"2023-01-31T19:58:59.975Z","msg":"MainSQL: slow query createOrUpdateSignedPreKey duration=44ms"}
+{"level":30,"time":"2023-01-31T19:59:00.020Z","msg":"MainSQL: slow query createOrUpdateItem duration=42ms"}
+{"level":30,"time":"2023-01-31T19:59:00.064Z","msg":"MainSQL: slow query createOrUpdateSignedPreKey duration=44ms"}
+{"level":30,"time":"2023-01-31T19:59:00.254Z","msg":"MainSQL: slow query createOrUpdateSignedPreKey duration=49ms"}
+{"level":30,"time":"2023-01-31T19:59:00.332Z","msg":"MainSQL: slow query createOrUpdateItem duration=76ms"}
+{"level":30,"time":"2023-01-31T19:59:00.877Z","msg":"MainSQL: slow query updateConversations duration=100ms"}
+{"level":30,"time":"2023-01-31T19:59:01.422Z","msg":"MainSQL: slow query updateConversations duration=43ms"}
+{"level":30,"time":"2023-01-31T19:59:04.701Z","msg":"MainSQL: slow query saveMessages duration=89ms"}
+{"level":30,"time":"2023-01-31T19:59:08.790Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":33,\"y\":34}"}
+{"level":30,"time":"2023-01-31T19:59:08.790Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:59:08.791Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:59:10.387Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":33,\"y\":34}"}
+{"level":30,"time":"2023-01-31T19:59:10.388Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:59:10.388Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T19:59:12.415Z","msg":"MainSQL: slow query saveMessage duration=78ms"}
+{"level":30,"time":"2023-01-31T19:59:12.882Z","msg":"MainSQL: slow query updateConversations duration=85ms"}
+{"level":30,"time":"2023-01-31T19:59:18.684Z","msg":"MainSQL: slow query updateConversations duration=123ms"}
+{"level":30,"time":"2023-01-31T20:00:03.515Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":-3717,\"y\":34}"}
+{"level":30,"time":"2023-01-31T20:00:03.515Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:00:03.516Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:02:38.220Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":33,\"y\":34}"}
+{"level":30,"time":"2023-01-31T20:02:38.220Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:02:38.221Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:02:41.922Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":-3717,\"y\":34}"}
+{"level":30,"time":"2023-01-31T20:02:41.923Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:02:41.923Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:02:57.435Z","msg":"MainSQL: slow query commitDecryptResult duration=235ms"}
+{"level":30,"time":"2023-01-31T20:02:57.713Z","msg":"MainSQL: slow query removeUnprocessed duration=173ms"}
+{"level":30,"time":"2023-01-31T20:03:01.740Z","msg":"MainSQL: slow query commitDecryptResult duration=161ms"}
+{"level":30,"time":"2023-01-31T20:03:01.806Z","msg":"MainSQL: slow query createOrUpdateItem duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:01.896Z","msg":"MainSQL: slow query saveMessages duration=67ms"}
+{"level":30,"time":"2023-01-31T20:03:02.233Z","msg":"MainSQL: slow query removeUnprocessed duration=198ms"}
+{"level":30,"time":"2023-01-31T20:03:02.319Z","msg":"MainSQL: slow query insertJob duration=61ms"}
+{"level":30,"time":"2023-01-31T20:03:02.396Z","msg":"MainSQL: slow query updateConversations duration=77ms"}
+{"level":30,"time":"2023-01-31T20:03:02.508Z","msg":"MainSQL: slow query createOrUpdateItem duration=57ms"}
+{"level":30,"time":"2023-01-31T20:03:02.575Z","msg":"MainSQL: slow query commitDecryptResult duration=51ms"}
+{"level":30,"time":"2023-01-31T20:03:02.751Z","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2023-01-31T20:03:02.751Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-01-31T20:03:02.808Z","msg":"MainSQL: slow query insertSentProto duration=99ms"}
+{"level":30,"time":"2023-01-31T20:03:02.875Z","msg":"MainSQL: slow query createOrUpdateItem duration=67ms"}
+{"level":30,"time":"2023-01-31T20:03:02.931Z","msg":"MainSQL: slow query deleteJob duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:03.236Z","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2023-01-31T20:03:04.899Z","msg":"MainSQL: slow query getUnreadByConversationAndMarkRead duration=90ms"}
+{"level":30,"time":"2023-01-31T20:03:04.966Z","msg":"MainSQL: slow query insertJob duration=46ms"}
+{"level":30,"time":"2023-01-31T20:03:05.055Z","msg":"MainSQL: slow query insertJob duration=88ms"}
+{"level":30,"time":"2023-01-31T20:03:05.100Z","msg":"MainSQL: slow query commitDecryptResult duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:05.102Z","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2023-01-31T20:03:05.103Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-01-31T20:03:05.178Z","msg":"MainSQL: slow query commitDecryptResult duration=78ms"}
+{"level":30,"time":"2023-01-31T20:03:05.223Z","msg":"MainSQL: slow query createOrUpdateItem duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:05.290Z","msg":"MainSQL: slow query insertSentProto duration=53ms"}
+{"level":30,"time":"2023-01-31T20:03:05.305Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":33,\"y\":34}"}
+{"level":30,"time":"2023-01-31T20:03:05.306Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:03:05.306Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:03:05.367Z","msg":"MainSQL: slow query deleteJob duration=76ms"}
+{"level":30,"time":"2023-01-31T20:03:05.412Z","msg":"MainSQL: slow query insertSentProto duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:05.457Z","msg":"MainSQL: slow query deleteJob duration=42ms"}
+{"level":30,"time":"2023-01-31T20:03:05.668Z","msg":"MainSQL: slow query commitDecryptResult duration=66ms"}
+{"level":30,"time":"2023-01-31T20:03:05.713Z","msg":"MainSQL: slow query updateConversations duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:05.790Z","msg":"MainSQL: slow query removeUnprocessed duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:08.136Z","msg":"MainSQL: slow query updateConversations duration=138ms"}
+{"level":30,"time":"2023-01-31T20:03:08.727Z","msg":"MainSQL: slow query commitDecryptResult duration=148ms"}
+{"level":30,"time":"2023-01-31T20:03:09.183Z","msg":"MainSQL: slow query updateConversations duration=106ms"}
+{"level":30,"time":"2023-01-31T20:03:09.817Z","msg":"MainSQL: slow query updateConversations duration=123ms"}
+{"level":30,"time":"2023-01-31T20:03:10.642Z","msg":"MainSQL: slow query updateConversations duration=81ms"}
+{"level":30,"time":"2023-01-31T20:03:11.042Z","msg":"MainSQL: slow query commitDecryptResult duration=84ms"}
+{"level":30,"time":"2023-01-31T20:03:11.131Z","msg":"MainSQL: slow query createOrUpdateItem duration=83ms"}
+{"level":30,"time":"2023-01-31T20:03:11.198Z","msg":"MainSQL: slow query saveMessages duration=67ms"}
+{"level":30,"time":"2023-01-31T20:03:11.333Z","msg":"MainSQL: slow query saveMessage duration=130ms"}
+{"level":30,"time":"2023-01-31T20:03:11.388Z","msg":"MainSQL: slow query getUnreadByConversationAndMarkRead duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:11.444Z","msg":"MainSQL: slow query removeUnprocessed duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:11.499Z","msg":"MainSQL: slow query commitDecryptResult duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:11.555Z","msg":"MainSQL: slow query updateConversations duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:11.611Z","msg":"MainSQL: slow query insertJob duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:11.667Z","msg":"MainSQL: slow query insertJob duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:11.722Z","msg":"MainSQL: slow query insertJob duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:11.778Z","msg":"MainSQL: slow query commitDecryptResult duration=54ms"}
+{"level":30,"time":"2023-01-31T20:03:11.834Z","msg":"MainSQL: slow query insertSentProto duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:11.890Z","msg":"MainSQL: slow query commitDecryptResult duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:11.956Z","msg":"MainSQL: slow query saveMessage duration=64ms"}
+{"level":30,"time":"2023-01-31T20:03:12.012Z","msg":"MainSQL: slow query insertSentProto duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:12.068Z","msg":"MainSQL: slow query saveMessage duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:12.168Z","msg":"MainSQL: slow query deleteJob duration=100ms"}
+{"level":30,"time":"2023-01-31T20:03:12.224Z","msg":"MainSQL: slow query insertSentProto duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:12.302Z","msg":"MainSQL: slow query commitDecryptResult duration=77ms"}
+{"level":30,"time":"2023-01-31T20:03:12.347Z","msg":"MainSQL: slow query createOrUpdateItem duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:12.391Z","msg":"MainSQL: slow query commitDecryptResult duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:12.436Z","msg":"MainSQL: slow query deleteJob duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:12.491Z","msg":"MainSQL: slow query updateConversations duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:12.547Z","msg":"MainSQL: slow query commitDecryptResult duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:12.614Z","msg":"MainSQL: slow query insertSentProto duration=67ms"}
+{"level":30,"time":"2023-01-31T20:03:12.670Z","msg":"MainSQL: slow query insertSentProto duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:12.725Z","msg":"MainSQL: slow query deleteJob duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:12.770Z","msg":"MainSQL: slow query removeUnprocessed duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:12.825Z","msg":"MainSQL: slow query saveMessage duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:12.881Z","msg":"MainSQL: slow query saveMessage duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:12.937Z","msg":"MainSQL: slow query updateConversations duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:12.982Z","msg":"MainSQL: slow query deleteJob duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:12.983Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1675195391193"}
+{"level":30,"time":"2023-01-31T20:03:13.037Z","msg":"MainSQL: slow query deleteSentProtoRecipient duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:13.549Z","msg":"MainSQL: slow query commitDecryptResult duration=80ms"}
+{"level":30,"time":"2023-01-31T20:03:13.605Z","msg":"MainSQL: slow query updateConversations duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:13.972Z","msg":"MainSQL: slow query saveMessage duration=250ms"}
+{"level":30,"time":"2023-01-31T20:03:14.061Z","msg":"MainSQL: slow query commitDecryptResult duration=89ms"}
+{"level":30,"time":"2023-01-31T20:03:14.106Z","msg":"MainSQL: slow query createOrUpdateItem duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:14.184Z","msg":"MainSQL: slow query updateConversations duration=76ms"}
+{"level":30,"time":"2023-01-31T20:03:14.262Z","msg":"MainSQL: slow query commitDecryptResult duration=69ms"}
+{"level":30,"time":"2023-01-31T20:03:14.440Z","msg":"MainSQL: slow query insertSentProto duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:14.496Z","msg":"MainSQL: slow query saveMessage duration=54ms"}
+{"level":30,"time":"2023-01-31T20:03:14.552Z","msg":"MainSQL: slow query saveMessage duration=46ms"}
+{"level":30,"time":"2023-01-31T20:03:14.608Z","msg":"MainSQL: slow query commitDecryptResult duration=49ms"}
+{"level":30,"time":"2023-01-31T20:03:14.785Z","msg":"MainSQL: slow query insertSentProto duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:14.830Z","msg":"MainSQL: slow query updateConversations duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:14.885Z","msg":"MainSQL: slow query saveMessage duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:14.941Z","msg":"MainSQL: slow query deleteJob duration=52ms"}
+{"level":30,"time":"2023-01-31T20:03:15.366Z","msg":"MainSQL: slow query updateConversations duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:16.011Z","msg":"MainSQL: slow query commitDecryptResult duration=85ms"}
+{"level":30,"time":"2023-01-31T20:03:16.089Z","msg":"MainSQL: slow query saveMessage duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:16.134Z","msg":"MainSQL: slow query removeUnprocessed duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:16.267Z","msg":"MainSQL: slow query commitDecryptResult duration=50ms"}
+{"level":30,"time":"2023-01-31T20:03:16.348Z","msg":"MainSQL: slow query saveMessage duration=66ms"}
+{"level":30,"time":"2023-01-31T20:03:16.401Z","msg":"MainSQL: slow query saveMessage duration=56ms"}
+{"level":30,"time":"2023-01-31T20:03:16.402Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1675195393711"}
+{"level":30,"time":"2023-01-31T20:03:16.446Z","msg":"MainSQL: slow query deleteSentProtoRecipient duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:16.490Z","msg":"MainSQL: slow query removeUnprocessed duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:16.868Z","msg":"MainSQL: slow query commitDecryptResult duration=100ms"}
+{"level":30,"time":"2023-01-31T20:03:16.913Z","msg":"MainSQL: slow query updateConversations duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:19.669Z","msg":"MainSQL: slow query commitDecryptResult duration=71ms"}
+{"level":30,"time":"2023-01-31T20:03:19.836Z","msg":"MainSQL: slow query saveMessage duration=52ms"}
+{"level":30,"time":"2023-01-31T20:03:19.892Z","msg":"MainSQL: slow query createOrUpdateItem duration=50ms"}
+{"level":30,"time":"2023-01-31T20:03:19.937Z","msg":"MainSQL: slow query commitDecryptResult duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:20.114Z","msg":"MainSQL: slow query insertSentProto duration=48ms"}
+{"level":30,"time":"2023-01-31T20:03:20.159Z","msg":"MainSQL: slow query updateConversations duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:20.215Z","msg":"MainSQL: slow query saveMessage duration=55ms"}
+{"level":30,"time":"2023-01-31T20:03:20.326Z","msg":"MainSQL: slow query saveMessage duration=93ms"}
+{"level":30,"time":"2023-01-31T20:03:20.415Z","msg":"MainSQL: slow query commitDecryptResult duration=86ms"}
+{"level":30,"time":"2023-01-31T20:03:20.505Z","msg":"MainSQL: slow query commitDecryptResult duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:20.572Z","msg":"MainSQL: slow query saveMessage duration=48ms"}
+{"level":30,"time":"2023-01-31T20:03:20.616Z","msg":"MainSQL: slow query insertSentProto duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:20.661Z","msg":"MainSQL: slow query removeUnprocessed duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:20.705Z","msg":"MainSQL: slow query updateConversations duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:20.750Z","msg":"MainSQL: slow query saveMessage duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:20.795Z","msg":"MainSQL: slow query deleteJob duration=43ms"}
+{"level":30,"time":"2023-01-31T20:03:20.795Z","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1675195399772"}
+{"level":30,"time":"2023-01-31T20:03:20.839Z","msg":"MainSQL: slow query deleteSentProtoRecipient duration=45ms"}
+{"level":30,"time":"2023-01-31T20:03:21.395Z","msg":"MainSQL: slow query updateConversations duration=141ms"}
+{"level":30,"time":"2023-01-31T20:03:22.931Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1854,\"height\":1033,\"x\":-3717,\"y\":34}"}
+{"level":30,"time":"2023-01-31T20:03:22.931Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:03:22.931Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:03:23.841Z","msg":"MainSQL: slow query commitDecryptResult duration=80ms"}
+{"level":30,"time":"2023-01-31T20:03:23.908Z","msg":"MainSQL: slow query saveMessage duration=49ms"}
+{"level":30,"time":"2023-01-31T20:03:23.963Z","msg":"MainSQL: slow query removeUnprocessed duration=44ms"}
+{"level":30,"time":"2023-01-31T20:03:24.609Z","msg":"MainSQL: slow query updateConversations duration=47ms"}
+{"level":30,"time":"2023-01-31T20:03:57.411Z","msg":"MainSQL: slow query createOrUpdateItem duration=69ms"}
+{"level":30,"time":"2023-01-31T20:04:38.959Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":820,\"height\":498,\"x\":1060,\"y\":34}"}
+{"level":30,"time":"2023-01-31T20:04:38.959Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:04:38.963Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:04:39.025Z","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2023-01-31T20:04:39.027Z","msg":"System tray service: rendering no tray"}
+{"level":50,"time":"2023-01-31T20:04:39.030Z","msg":"Unhandled Error: Error: write EIO\n    at afterWriteDispatched (node:internal/stream_base_commons:160:15)\n    at writeGeneric (node:internal/stream_base_commons:151:3)\n    at Socket._writeGeneric (node:net:874:11)\n    at Socket._write (node:net:886:8)\n    at writeOrBuffer (node:internal/streams/writable:391:12)\n    at _write (node:internal/streams/writable:332:10)\n    at Writable.write (node:internal/streams/writable:336:10)\n    at Object.write ([REDACTED]/node_modules/pino/lib/multistream.js:71:16)\n    at Pino.write ([REDACTED]/node_modules/pino/lib/proto.js:210:10)\n    at Pino.LOG [as info] ([REDACTED]/node_modules/pino/lib/tools.js:56:21)"}
+{"level":30,"time":"2023-01-31T20:15:33.425Z","msg":"app ready"}
+{"level":30,"time":"2023-01-31T20:15:33.427Z","msg":"starting version 6.3.0"}
+{"level":30,"time":"2023-01-31T20:15:33.428Z","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2023-01-31T20:15:33.428Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-01-31T20:15:33.542Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-01-31T20:15:33.542Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2023-01-31T20:15:33.543Z","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":30,"time":"2023-01-31T20:15:33.543Z","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":820,\"height\":498,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"titleBarOverlay\":false,\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"backgroundThrottling\":true,\"enablePreferredSizeMode\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":1060,\"y\":34}"}
+{"level":30,"time":"2023-01-31T20:15:34.881Z","msg":"spellcheck: user locale: de"}
+{"level":30,"time":"2023-01-31T20:15:34.882Z","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2023-01-31T20:15:34.882Z","msg":"spellcheck: setting languages to:  [\"de\"]"}
+{"level":30,"time":"2023-01-31T20:15:34.883Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-01-31T20:15:35.113Z","msg":"MainSQL: updateSchema:\n  Current user_version: 74;\n  Most recent db schema: 74;\n  SQLite version: 3.39.2;\n  SQLCipher version: 4.5.2 community;\n  (deprecated) schema_version: 325;\n"}
+{"level":30,"time":"2023-01-31T20:15:40.948Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2023-01-31T20:15:40.949Z","msg":"main window is ready-to-show"}
+{"level":30,"time":"2023-01-31T20:15:40.949Z","msg":"showing main window"}
+{"level":30,"time":"2023-01-31T20:15:40.957Z","msg":"System tray service: created"}
+{"level":30,"time":"2023-01-31T20:15:40.958Z","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2023-01-31T20:15:40.958Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-01-31T20:15:40.959Z","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2023-01-31T20:15:40.963Z","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2023-01-31T20:15:40.965Z","msg":"Finish ensuring permissions in 6ms"}
+{"level":30,"time":"2023-01-31T20:15:41.184Z","msg":"MainSQL: slow query getAllItems duration=48ms"}
+{"level":30,"time":"2023-01-31T20:15:41.549Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1914,\"height\":1053,\"x\":-3837,\"y\":24}"}
+{"level":30,"time":"2023-01-31T20:15:41.550Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:15:41.551Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:15:41.668Z","msg":"MainSQL: slow query createOrUpdateItem duration=184ms"}
+{"level":30,"time":"2023-01-31T20:15:41.712Z","msg":"MainSQL: slow query createOrUpdateItem duration=44ms"}
+{"level":30,"time":"2023-01-31T20:15:41.757Z","msg":"MainSQL: slow query createOrUpdateItem duration=44ms"}
+{"level":30,"time":"2023-01-31T20:15:42.135Z","msg":"MainSQL: slow query createOrUpdateItem duration=64ms"}
+{"level":30,"time":"2023-01-31T20:15:42.280Z","msg":"MainSQL: slow query createOrUpdateItem duration=61ms"}
+{"level":30,"time":"2023-01-31T20:15:42.282Z","msg":"sending `database-ready`"}
+{"level":30,"time":"2023-01-31T20:15:42.662Z","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2023-01-31T20:15:42.662Z","msg":"Background throttling enabled because no call is active"}
+{"level":30,"time":"2023-01-31T20:15:43.309Z","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2023-01-31T20:15:43.574Z","msg":"App loaded - time: 10157"}
+{"level":30,"time":"2023-01-31T20:15:43.574Z","msg":"SQL init - time: 1697"}
+{"level":30,"time":"2023-01-31T20:15:43.575Z","msg":"Preload - time: 1976"}
+{"level":30,"time":"2023-01-31T20:15:43.575Z","msg":"WebSocket connect - time: 2680"}
+{"level":30,"time":"2023-01-31T20:15:43.575Z","msg":"Processed count: 0"}
+{"level":30,"time":"2023-01-31T20:15:43.575Z","msg":"Messages per second: 0"}
+{"level":30,"time":"2023-01-31T20:15:43.782Z","msg":"MainSQL: slow query commitDecryptResult duration=43ms"}
+{"level":30,"time":"2023-01-31T20:15:43.960Z","msg":"MainSQL: slow query createOrUpdateItem duration=47ms"}
+{"level":30,"time":"2023-01-31T20:15:44.115Z","msg":"MainSQL: slow query insertSentProto duration=49ms"}
+{"level":30,"time":"2023-01-31T20:15:44.160Z","msg":"MainSQL: slow query deleteJob duration=44ms"}
+{"level":30,"time":"2023-01-31T20:15:44.728Z","msg":"MainSQL: slow query updateConversations duration=55ms"}
+{"level":30,"time":"2023-01-31T20:16:02.377Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1914,\"height\":1053,\"x\":3,\"y\":24}"}
+{"level":30,"time":"2023-01-31T20:16:02.377Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:16:02.378Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:16:03.400Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1914,\"height\":1053,\"x\":3,\"y\":24}"}
+{"level":30,"time":"2023-01-31T20:16:03.401Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:16:03.401Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:16:04.702Z","msg":"MainSQL: slow query updateConversations duration=65ms"}
+{"level":30,"time":"2023-01-31T20:16:05.148Z","msg":"MainSQL: slow query createOrUpdateItem duration=152ms"}
+{"level":30,"time":"2023-01-31T20:16:05.737Z","msg":"MainSQL: slow query updateConversations duration=76ms"}
+{"level":30,"time":"2023-01-31T20:16:10.045Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1914,\"height\":1053,\"x\":-3837,\"y\":24}"}
+{"level":30,"time":"2023-01-31T20:16:10.046Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:16:10.046Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:20:05.888Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1914,\"height\":1053,\"x\":3,\"y\":24}"}
+{"level":30,"time":"2023-01-31T20:20:05.888Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:20:05.888Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:20:13.070Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1914,\"height\":1053,\"x\":-3837,\"y\":24}"}
+{"level":30,"time":"2023-01-31T20:20:13.070Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:20:13.071Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:20:42.391Z","msg":"MainSQL: slow query createOrUpdateItem duration=86ms"}
+{"level":30,"time":"2023-01-31T20:22:27.914Z","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2023-01-31T20:22:27.915Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-01-31T20:22:27.915Z","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2023-01-31T20:22:27.962Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1914,\"height\":1053,\"x\":3,\"y\":24}"}
+{"level":30,"time":"2023-01-31T20:22:27.963Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:22:27.963Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-01-31T20:22:28.357Z","msg":"MainSQL: slow query close duration=430ms"}
+{"level":30,"time":"2023-01-31T20:22:28.358Z","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2023-01-31T20:22:28.364Z","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}"}
+{"level":30,"time":"2023-01-31T20:22:28.364Z","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2023-01-31T20:22:28.364Z","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2023-01-31T20:22:28.367Z","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2023-01-31T20:22:28.367Z","msg":"System tray service: rendering no tray"}

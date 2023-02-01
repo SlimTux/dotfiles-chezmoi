@@ -1,0 +1,6 @@
+[2023-01-23 22:07:41.311] [main] [info] window#load: attempt to load window (id: 1)
+[2023-01-23 22:07:41.337] [main] [info] update#setState idle
+[2023-01-23 22:07:41.370] [main] [info] ExtensionHostStarterWorker created
+[2023-01-23 22:07:42.393] [main] [info] window#load: window reported ready (id: 1)
+[2023-01-23 22:07:42.550] [main] [info] Starting extension host with pid 15204 (fork() took 15 ms).
+[2023-01-23 22:07:42.550] [main] [info] ExtensionHostStarterWorker.start() took 18 ms.

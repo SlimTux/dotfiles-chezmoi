@@ -1,0 +1,7 @@
+Getting extension config from VS Code...
+
+Using [site_id]: undefined
+Using [api_token]: "null"
+Using [set_interval]: 10000
+
+Note: [site_id] is not located. No longer polling Netlify API 😿

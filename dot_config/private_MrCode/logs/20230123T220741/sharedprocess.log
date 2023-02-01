@@ -1,0 +1,3 @@
+[2023-01-23 22:07:43.515] [sharedprocess] [info] Starting worker process with pid 15265 (type: fileWatcher, window: 1).
+[2023-01-23 22:07:43.823] [sharedprocess] [info] Deleted from disk unifiedjs.vscode-mdx /home/henrique/.mrcode/extensions/unifiedjs.vscode-mdx-1.1.0
+[2023-01-23 22:07:43.888] [sharedprocess] [info] Deleted from disk formulahendry.code-runner /home/henrique/.mrcode/extensions/formulahendry.code-runner-0.11.8

@@ -1,0 +1,53 @@
+[2023-01-27 16:37:38.237] [exthost] [info] Extension host with pid 22712 started
+[2023-01-27 16:37:38.266] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-27 16:37:38.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-01-27 16:37:38.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-27 16:37:38.273] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2023-01-27 16:37:38.291] [exthost] [info] ExtensionService#_doActivateExtension shailen.netlify, startup: true, activationEvent: '*'
+[2023-01-27 16:37:38.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-01-27 16:37:38.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-27 16:37:38.394] [exthost] [info] Eager extensions activated
+[2023-01-27 16:37:38.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:37:38.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:37:38.406] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:37:57.221] [exthost] [info] Extension host terminating: renderer closed the socket
+[2023-01-27 16:37:57.228] [exthost] [info] Extension host with pid 22712 exiting with code 0
+[2023-01-27 16:37:59.104] [exthost] [info] Extension host with pid 23067 started
+[2023-01-27 16:37:59.104] [exthost] [info] Skipping acquiring lock for /home/henrique/.config/MrCode/User/workspaceStorage/b29e04002b696787acc7617055bacb4d.
+[2023-01-27 16:37:59.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-27 16:37:59.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2023-01-27 16:37:59.161] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-27 16:37:59.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-27 16:37:59.193] [exthost] [info] Eager extensions activated
+[2023-01-27 16:37:59.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:37:59.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:38:00.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2023-01-27 16:38:00.565] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2023-01-27 16:38:00.581] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-27 16:38:00.591] [exthost] [info] ExtensionService#_doActivateExtension shailen.netlify, startup: false, activationEvent: '*'
+[2023-01-27 16:38:04.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:38:04.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:38:04.611] [exthost] [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:38:04.630] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-27 16:38:04.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'api', root cause: denoland.vscode-deno
+[2023-01-27 16:38:04.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-01-27 16:38:16.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2023-01-27 16:49:24.776] [exthost] [info] ExtensionService#_doActivateExtension tamasfe.even-better-toml, startup: false, activationEvent: 'onLanguage:toml'
+[2023-01-27 16:55:12.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2023-01-27 16:56:52.722] [exthost] [info] ExtensionService#_doActivateExtension firefox-devtools.vscode-firefox-debug, startup: false, activationEvent: 'onDebug'
+[2023-01-27 16:56:55.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2023-01-27 16:57:26.158] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+[2023-01-27 16:57:29.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-27 16:57:29.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-27 17:02:40.791] [exthost] [info] Extension host terminating: renderer closed the socket
+[2023-01-27 17:02:40.807] [exthost] [error] Canceled: Canceled
+	at Object.L [as canceled] (/usr/share/mrcode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+	at s._remoteCall (/usr/share/mrcode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13902)
+	at Proxy.p.<computed>.M.charCodeAt.p.<computed> (/usr/share/mrcode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10298)
+	at k.showMessage (/usr/share/mrcode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:148343)
+	at Object.showErrorMessage (/usr/share/mrcode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:41187)
+	at /usr/share/mrcode/resources/app/extensions/git/dist/main.js:2:934348
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async o._executeContributedCommand (/usr/share/mrcode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:31325) git.commit {"value":"vscode.git","_lower":"vscode.git"}
+[2023-01-27 17:02:40.810] [exthost] [info] Extension host with pid 23067 exiting with code 0

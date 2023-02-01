@@ -1,0 +1,6 @@
+{
+    "git.autofetch": true,
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    }
+}

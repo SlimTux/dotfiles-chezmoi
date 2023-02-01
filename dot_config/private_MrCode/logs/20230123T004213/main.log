@@ -1,0 +1,15 @@
+[2023-01-23 00:42:17.106] [main] [info] window#load: attempt to load window (id: 1)
+[2023-01-23 00:42:17.584] [main] [info] window#load: attempt to load window (id: 2)
+[2023-01-23 00:42:17.596] [main] [info] update#setState idle
+[2023-01-23 00:42:18.900] [main] [info] ExtensionHostStarterWorker created
+[2023-01-23 00:42:32.762] [main] [info] window#load: window reported ready (id: 2)
+[2023-01-23 00:42:32.972] [main] [info] Starting extension host with pid 3829 (fork() took 13 ms).
+[2023-01-23 00:42:32.972] [main] [info] ExtensionHostStarterWorker.start() took 15 ms.
+[2023-01-23 00:42:44.515] [main] [info] Enabling inspect port on extension host with pid 3829.
+[2023-01-23 00:42:47.601] [main] [info] update#setState checking for updates
+[2023-01-23 00:42:47.925] [main] [info] update#setState idle
+[2023-01-23 00:51:01.055] [main] [info] window#load: attempt to load window (id: 2)
+[2023-01-23 00:51:01.061] [main] [info] Extension host with pid 3829 exited with code: 0, signal: null.
+[2023-01-23 00:51:02.303] [main] [info] window#load: window reported ready (id: 2)
+[2023-01-23 00:51:02.570] [main] [info] Starting extension host with pid 9049 (fork() took 14 ms).
+[2023-01-23 00:51:02.571] [main] [info] ExtensionHostStarterWorker.start() took 15 ms.

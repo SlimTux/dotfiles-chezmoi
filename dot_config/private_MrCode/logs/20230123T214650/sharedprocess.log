@@ -1,0 +1,17 @@
+[2023-01-23 21:47:13.343] [sharedprocess] [info] Starting worker process with pid 3593 (type: fileWatcher, window: 1).
+[2023-01-23 21:47:15.075] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2023-01-23 21:47:18.471] [sharedprocess] [info] Getting Manifest... formulahendry.code-runner
+[2023-01-23 21:47:18.472] [sharedprocess] [info] Getting Manifest... unifiedjs.vscode-mdx
+[2023-01-23 21:47:19.402] [sharedprocess] [info] Installing extension: unifiedjs.vscode-mdx
+[2023-01-23 21:47:19.406] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2023-01-23 21:47:21.510] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/henrique/.config/MrCode/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0
+[2023-01-23 21:47:21.646] [sharedprocess] [info] Extracted extension to /home/henrique/.mrcode/extensions/.c5da4343-bbd8-4fa6-b462-eb45a7e8217f: formulahendry.code-runner
+[2023-01-23 21:47:21.716] [sharedprocess] [info] Downloaded extension: unifiedjs.vscode-mdx /home/henrique/.config/MrCode/CachedExtensionVSIXs/unifiedjs.vscode-mdx-1.2.0
+[2023-01-23 21:47:21.799] [sharedprocess] [info] Extracted extension to /home/henrique/.mrcode/extensions/.036398dc-8b71-4f1a-9bf4-c71c3feb2ee2: unifiedjs.vscode-mdx
+[2023-01-23 21:47:22.027] [sharedprocess] [info] Renamed to /home/henrique/.mrcode/extensions/formulahendry.code-runner-0.12.0
+[2023-01-23 21:47:22.030] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2023-01-23 21:47:22.450] [sharedprocess] [info] Renamed to /home/henrique/.mrcode/extensions/unifiedjs.vscode-mdx-1.2.0
+[2023-01-23 21:47:22.452] [sharedprocess] [info] Extracting completed. unifiedjs.vscode-mdx
+[2023-01-23 21:47:22.649] [sharedprocess] [warning] Overwriting user extension /home/henrique/.mrcode/extensions/unifiedjs.vscode-mdx-1.1.0 with /home/henrique/.mrcode/extensions/unifiedjs.vscode-mdx-1.2.0.
+[2023-01-23 21:47:22.767] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
+[2023-01-23 21:47:23.246] [sharedprocess] [info] Extension installed successfully: unifiedjs.vscode-mdx

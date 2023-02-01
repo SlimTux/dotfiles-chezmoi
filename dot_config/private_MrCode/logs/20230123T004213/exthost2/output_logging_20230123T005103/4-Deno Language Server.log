@@ -1,0 +1,1 @@
+Error: Could not resolve Deno executable. Please ensure it is available on the PATH used by VS Code or set an explicit "deno.path" setting.

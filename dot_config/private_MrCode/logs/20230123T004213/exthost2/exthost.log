@@ -1,0 +1,49 @@
+[2023-01-23 00:42:41.411] [exthost] [info] Extension host with pid 3829 started
+[2023-01-23 00:42:41.411] [exthost] [info] Skipping acquiring lock for /home/henrique/.config/MrCode/User/workspaceStorage/bc66d7e5ce8736d2a0fa8ca25ad44ddb.
+[2023-01-23 00:42:41.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2023-01-23 00:42:42.065] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:html'
+[2023-01-23 00:42:42.985] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-23 00:42:43.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-01-23 00:42:43.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-23 00:42:44.211] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2023-01-23 00:42:44.635] [exthost] [info] ExtensionService#_doActivateExtension shailen.netlify, startup: true, activationEvent: '*'
+[2023-01-23 00:43:01.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-23 00:43:01.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-23 00:43:02.216] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-23 00:43:03.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-01-23 00:43:03.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-23 00:43:04.232] [exthost] [info] Eager extensions activated
+[2023-01-23 00:43:45.956] [exthost] [info] ExtensionService#_doActivateExtension ZakHargz.mdx-blog-post, startup: false, activationEvent: 'onCommand:mdx-blog-post.CreateMdxBlogPost'
+[2023-01-23 00:44:24.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:44:24.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:44:24.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:44:24.562] [exthost] [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:44:35.440] [exthost] [info] ExtensionService#_doActivateExtension Wscats.eno, startup: false, activationEvent: 'onCommand:compile-hero.openInBrowser'
+[2023-01-23 00:50:25.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-23 00:50:26.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-01-23 00:51:01.008] [exthost] [info] Extension host terminating: renderer closed the socket
+[2023-01-23 00:51:01.029] [exthost] [info] Extension host with pid 3829 exiting with code 0
+[2023-01-23 00:51:03.347] [exthost] [info] Extension host with pid 9049 started
+[2023-01-23 00:51:03.347] [exthost] [info] Skipping acquiring lock for /home/henrique/.config/MrCode/User/workspaceStorage/b6d8a373d5fee64e8d0a9d827410dba1.
+[2023-01-23 00:51:03.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-23 00:51:03.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2023-01-23 00:51:03.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-23 00:51:03.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-23 00:51:03.487] [exthost] [info] Eager extensions activated
+[2023-01-23 00:51:03.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-23 00:51:03.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-23 00:51:04.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2023-01-23 00:51:04.470] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2023-01-23 00:51:04.487] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-23 00:51:04.504] [exthost] [info] ExtensionService#_doActivateExtension shailen.netlify, startup: false, activationEvent: '*'
+[2023-01-23 00:51:28.707] [exthost] [info] ExtensionService#_doActivateExtension firefox-devtools.vscode-firefox-debug, startup: false, activationEvent: 'onDebug'
+[2023-01-23 00:51:28.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2023-01-23 00:51:28.871] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:node'
+[2023-01-23 00:51:31.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:51:31.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:51:31.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:51:31.674] [exthost] [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-23 00:52:54.125] [exthost] [info] ExtensionService#_doActivateExtension tamasfe.even-better-toml, startup: false, activationEvent: 'onLanguage:toml'
+[2023-01-23 00:54:17.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2023-01-23 00:54:29.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2023-01-23 00:54:29.483] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:html'

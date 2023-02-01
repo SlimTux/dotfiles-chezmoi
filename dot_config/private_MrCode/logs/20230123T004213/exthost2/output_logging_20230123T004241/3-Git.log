@@ -1,0 +1,18 @@
+[2023-01-23T00:43:03.722Z] Validating found git in: git
+[2023-01-23T00:43:04.222Z] Using git 2.39.1 from git
+[2023-01-23T00:43:04.275Z] > git rev-parse --show-toplevel [45ms]
+[2023-01-23T00:43:04.275Z] fatal: not a git repository (or any of the parent directories): .git
+[2023-01-23T00:43:04.283Z] > git rev-parse --show-toplevel [0ms]
+[2023-01-23T00:43:04.283Z] fatal: not a git repository (or any of the parent directories): .git
+[2023-01-23T00:43:04.291Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-23T00:43:04.291Z] fatal: not a git repository (or any of the parent directories): .git
+[2023-01-23T00:43:36.695Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-23T00:43:36.696Z] fatal: not a git repository (or any of the parent directories): .git
+[2023-01-23T00:44:24.751Z] > git rev-parse --show-toplevel [8ms]
+[2023-01-23T00:44:24.751Z] fatal: not a git repository (or any of the parent directories): .git
+[2023-01-23T00:50:25.884Z] > git rev-parse --show-toplevel [3ms]
+[2023-01-23T00:50:25.884Z] fatal: not a git repository (or any of the parent directories): .git
+[2023-01-23T00:50:26.539Z] > git rev-parse --show-toplevel [3ms]
+[2023-01-23T00:50:26.539Z] fatal: not a git repository (or any of the parent directories): .git
+[2023-01-23T00:50:28.183Z] > git rev-parse --show-toplevel [10ms]
+[2023-01-23T00:50:28.183Z] fatal: not a git repository (or any of the parent directories): .git

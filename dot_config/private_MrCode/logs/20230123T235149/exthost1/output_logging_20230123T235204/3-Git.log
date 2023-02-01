@@ -1,0 +1,6 @@
+[2023-01-23T23:52:07.343Z] Validating found git in: git
+[2023-01-23T23:52:07.367Z] Using git 2.39.1 from git
+[2023-01-23T23:52:08.221Z] > git rev-parse --show-toplevel [847ms]
+[2023-01-23T23:52:08.244Z] > git rev-parse --git-dir --git-common-dir [11ms]
+[2023-01-23T23:52:08.251Z] Open repository: /home/henrique/Programing/Personal/Git/fork/hugo-starter-netlify-cms
+[2023-01-23T23:52:08.456Z] > git status -z -uall [193ms]

@@ -1,0 +1,29 @@
+[2023-01-27 16:37:14.822] [main] [info] window#load: attempt to load window (id: 1)
+[2023-01-27 16:37:15.019] [main] [info] update#setState idle
+[2023-01-27 16:37:15.856] [main] [info] ExtensionHostStarterWorker created
+[2023-01-27 16:37:21.603] [main] [info] window#load: window reported ready (id: 1)
+[2023-01-27 16:37:22.009] [main] [info] Starting extension host with pid 22323 (fork() took 9 ms).
+[2023-01-27 16:37:22.009] [main] [info] ExtensionHostStarterWorker.start() took 11 ms.
+[2023-01-27 16:37:30.766] [main] [info] Enabling inspect port on extension host with pid 22323.
+[2023-01-27 16:37:36.631] [main] [info] window#load: attempt to load window (id: 3)
+[2023-01-27 16:37:37.488] [main] [info] window#load: window reported ready (id: 3)
+[2023-01-27 16:37:37.672] [main] [info] Starting extension host with pid 22712 (fork() took 13 ms).
+[2023-01-27 16:37:37.673] [main] [info] ExtensionHostStarterWorker.start() took 14 ms.
+[2023-01-27 16:37:38.660] [main] [info] Extension host with pid 22323 exited with code: 0, signal: null.
+[2023-01-27 16:37:45.023] [main] [info] update#setState checking for updates
+[2023-01-27 16:37:45.237] [main] [info] update#setState idle
+[2023-01-27 16:37:57.295] [main] [info] window#load: attempt to load window (id: 3)
+[2023-01-27 16:37:57.300] [main] [info] Extension host with pid 22712 exited with code: 0, signal: null.
+[2023-01-27 16:37:58.463] [main] [info] window#load: window reported ready (id: 3)
+[2023-01-27 16:37:58.686] [main] [info] Starting extension host with pid 23067 (fork() took 12 ms).
+[2023-01-27 16:37:58.687] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
+[2023-01-27 16:51:25.301] [main] [info] window#load: attempt to load window (id: 4)
+[2023-01-27 16:51:26.193] [main] [info] window#load: window reported ready (id: 4)
+[2023-01-27 16:51:26.432] [main] [info] Starting extension host with pid 1579 (fork() took 10 ms).
+[2023-01-27 16:51:26.432] [main] [info] ExtensionHostStarterWorker.start() took 12 ms.
+[2023-01-27 16:51:41.602] [main] [info] Enabling inspect port on extension host with pid 1579.
+[2023-01-27 16:53:30.821] [main] [info] Extension host with pid 1579 exited with code: 0, signal: null.
+[2023-01-27 17:02:40.798] [main] [info] Waiting for extension host with pid 23067 to exit.
+[2023-01-27 17:02:40.830] [main] [info] Extension host with pid 23067 exited with code: 0, signal: null.
+[2023-01-27 17:02:41.150] [main] [warning] [storage main] detected slow close() operation: Time: 355ms, DB size: 45056b, Large Keys: memento/workbench.editors.files.textFileEditor:8069, history.entries:2519, __$__targetStorageMarker:1875, workbench.view.extensions.state:1790, codelens/cache2:1732
+[2023-01-27 17:02:41.150] [main] [warning] [storage main] detected slow close() operation: Time: 356ms, DB size: 147456b, Large Keys: iconThemeData:88502, colorThemeData:9722, workbench.activity.placeholderViewlets:3109, __$__targetStorageMarker:1603, workbench.view.extensions.state.hidden:1525

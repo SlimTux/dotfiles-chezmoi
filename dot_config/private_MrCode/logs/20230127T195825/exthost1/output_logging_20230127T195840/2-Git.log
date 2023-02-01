@@ -1,0 +1,13 @@
+[2023-01-27T19:58:45.178Z] Validating found git in: git
+[2023-01-27T19:58:45.200Z] Using git 2.39.1 from git
+[2023-01-27T19:58:45.861Z] > git rev-parse --show-toplevel [653ms]
+[2023-01-27T19:58:45.875Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2023-01-27T19:58:45.881Z] Open repository: /home/henrique
+[2023-01-27T19:58:46.479Z] > git check-ignore -v -z --stdin [53ms]
+[2023-01-27T20:00:04.442Z] > git status -z -uall [78553ms]
+[2023-01-27T20:01:40.596Z] > git show --textconv :luke-blog/archetypes/default.md [176ms]
+[2023-01-27T20:01:40.597Z] > git ls-files --stage -- /home/henrique/luke-blog/archetypes/default.md [170ms]
+[2023-01-27T20:01:48.455Z] > git show --textconv :luke-blog/static/style.css [20ms]
+[2023-01-27T20:01:48.455Z] > git ls-files --stage -- /home/henrique/luke-blog/static/style.css [11ms]
+[2023-01-27T20:16:02.469Z] > git ls-files --stage -- /home/henrique/luke-blog/static/style.css [2ms]
+[2023-01-27T20:16:02.479Z] > git show --textconv :luke-blog/static/style.css [2ms]

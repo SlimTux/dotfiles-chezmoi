@@ -1,0 +1,8 @@
+[2023-01-30 18:03:51.516] [sharedprocess] [info] Starting worker process with pid 10860 (type: fileWatcher, window: 1).
+[2023-01-30 18:03:55.343] [sharedprocess] [info] Getting Manifest... denoland.vscode-deno
+[2023-01-30 18:03:56.288] [sharedprocess] [info] Installing extension: denoland.vscode-deno
+[2023-01-30 18:03:57.837] [sharedprocess] [info] Downloaded extension: denoland.vscode-deno /home/henrique/.config/MrCode/CachedExtensionVSIXs/denoland.vscode-deno-3.17.0
+[2023-01-30 18:03:57.951] [sharedprocess] [info] Extracted extension to /home/henrique/.mrcode/extensions/.1eed1bfa-da53-4591-9ef1-ce0f094698d2: denoland.vscode-deno
+[2023-01-30 18:03:58.138] [sharedprocess] [info] Renamed to /home/henrique/.mrcode/extensions/denoland.vscode-deno-3.17.0
+[2023-01-30 18:03:58.141] [sharedprocess] [info] Extracting completed. denoland.vscode-deno
+[2023-01-30 18:03:58.283] [sharedprocess] [info] Extension installed successfully: denoland.vscode-deno

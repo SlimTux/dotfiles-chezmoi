@@ -1,0 +1,11 @@
+[2023-01-23 00:42:35.564] [sharedprocess] [info] Starting worker process with pid 3905 (type: fileWatcher, window: 2).
+[2023-01-23 00:51:01.067] [sharedprocess] [info] Worker process with pid 3905 terminated normally (type: fileWatcher, window: 2).
+[2023-01-23 00:51:02.579] [sharedprocess] [info] Starting worker process with pid 9050 (type: fileWatcher, window: 2).
+[2023-01-23 00:51:13.478] [sharedprocess] [error] Failed to install extension. mistermunchkin.simple-markdown-snippets
+[2023-01-23 00:51:13.478] [sharedprocess] [error] Incompatible: Can't install 'mistermunchkin.simple-markdown-snippets' extension because it is not compatible with the current version of MrCode (version 1.67.2+22140).
+    at L.checkAndGetCompatibleVersion (vscode-file://vscode-app/usr/share/mrcode/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:48:12091)
+    at async L.installFromGallery (vscode-file://vscode-app/usr/share/mrcode/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:48:3195)
+[2023-01-23 00:51:15.223] [sharedprocess] [error] Failed to install extension. mistermunchkin.simple-markdown-snippets
+[2023-01-23 00:51:15.224] [sharedprocess] [error] Incompatible: Can't install 'mistermunchkin.simple-markdown-snippets' extension because it is not compatible with the current version of MrCode (version 1.67.2+22140).
+    at L.checkAndGetCompatibleVersion (vscode-file://vscode-app/usr/share/mrcode/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:48:12091)
+    at async L.installFromGallery (vscode-file://vscode-app/usr/share/mrcode/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:48:3195)

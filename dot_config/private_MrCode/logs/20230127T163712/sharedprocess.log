@@ -1,0 +1,15 @@
+[2023-01-27 16:37:25.573] [sharedprocess] [info] Starting worker process with pid 22427 (type: fileWatcher, window: 1).
+[2023-01-27 16:37:29.005] [sharedprocess] [info] Getting Manifest... unifiedjs.vscode-mdx
+[2023-01-27 16:37:29.226] [sharedprocess] [info] Installing extension: unifiedjs.vscode-mdx
+[2023-01-27 16:37:30.148] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2023-01-27 16:37:30.826] [sharedprocess] [info] Downloaded extension: unifiedjs.vscode-mdx /home/henrique/.config/MrCode/CachedExtensionVSIXs/unifiedjs.vscode-mdx-1.2.1
+[2023-01-27 16:37:31.044] [sharedprocess] [info] Extracted extension to /home/henrique/.mrcode/extensions/.0cb3415f-194f-465c-98f9-c53f90f249d0: unifiedjs.vscode-mdx
+[2023-01-27 16:37:31.125] [sharedprocess] [info] Renamed to /home/henrique/.mrcode/extensions/unifiedjs.vscode-mdx-1.2.1
+[2023-01-27 16:37:31.128] [sharedprocess] [info] Extracting completed. unifiedjs.vscode-mdx
+[2023-01-27 16:37:31.183] [sharedprocess] [info] Extension installed successfully: unifiedjs.vscode-mdx
+[2023-01-27 16:37:37.687] [sharedprocess] [info] Starting worker process with pid 22713 (type: fileWatcher, window: 3).
+[2023-01-27 16:37:38.553] [sharedprocess] [info] Worker process with pid 22427 terminated normally (type: fileWatcher, window: 1).
+[2023-01-27 16:37:57.302] [sharedprocess] [info] Worker process with pid 22713 terminated normally (type: fileWatcher, window: 3).
+[2023-01-27 16:37:58.696] [sharedprocess] [info] Starting worker process with pid 23068 (type: fileWatcher, window: 3).
+[2023-01-27 16:51:26.449] [sharedprocess] [info] Starting worker process with pid 1580 (type: fileWatcher, window: 4).
+[2023-01-27 16:53:30.797] [sharedprocess] [info] Worker process with pid 1580 terminated normally (type: fileWatcher, window: 4).
